@@ -1,0 +1,14 @@
+C:\Users\mhmd\source\repos\exam1\exam1\bin\Debug\exam1.exe.config
+C:\Users\mhmd\source\repos\exam1\exam1\bin\Debug\exam1.exe
+C:\Users\mhmd\source\repos\exam1\exam1\bin\Debug\exam1.pdb
+C:\Users\mhmd\source\repos\exam1\exam1\obj\Debug\exam1.csprojAssemblyReference.cache
+C:\Users\mhmd\source\repos\exam1\exam1\obj\Debug\exam1.AddPCustomer.resources
+C:\Users\mhmd\source\repos\exam1\exam1\obj\Debug\exam1.Form1.resources
+C:\Users\mhmd\source\repos\exam1\exam1\obj\Debug\exam1.Properties.Resources.resources
+C:\Users\mhmd\source\repos\exam1\exam1\obj\Debug\exam1.csproj.GenerateResource.cache
+C:\Users\mhmd\source\repos\exam1\exam1\obj\Debug\exam1.csproj.CoreCompileInputs.cache
+C:\Users\mhmd\source\repos\exam1\exam1\obj\Debug\exam1.exe
+C:\Users\mhmd\source\repos\exam1\exam1\obj\Debug\exam1.pdb
+C:\Users\mhmd\source\repos\exam1\exam1\obj\Debug\exam1.addCompanyCustomer.resources
+C:\Users\mhmd\source\repos\exam1\exam1\obj\Debug\exam1.findCustomer.resources
+C:\Users\mhmd\source\repos\exam1\exam1\obj\Debug\exam1.makeOrder.resources

@@ -1,0 +1,10 @@
+C:\Users\mhmd\source\repos\pacman\pacman\bin\Debug\pacman.exe.config
+C:\Users\mhmd\source\repos\pacman\pacman\bin\Debug\pacman.exe
+C:\Users\mhmd\source\repos\pacman\pacman\bin\Debug\pacman.pdb
+C:\Users\mhmd\source\repos\pacman\pacman\obj\Debug\pacman.csprojAssemblyReference.cache
+C:\Users\mhmd\source\repos\pacman\pacman\obj\Debug\pacman.Form1.resources
+C:\Users\mhmd\source\repos\pacman\pacman\obj\Debug\pacman.Properties.Resources.resources
+C:\Users\mhmd\source\repos\pacman\pacman\obj\Debug\pacman.csproj.GenerateResource.cache
+C:\Users\mhmd\source\repos\pacman\pacman\obj\Debug\pacman.csproj.CoreCompileInputs.cache
+C:\Users\mhmd\source\repos\pacman\pacman\obj\Debug\pacman.exe
+C:\Users\mhmd\source\repos\pacman\pacman\obj\Debug\pacman.pdb

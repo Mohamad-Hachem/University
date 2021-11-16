@@ -1,0 +1,12 @@
+C:\Users\mhmd\source\repos\DBprojectF19-20\DBprojectF19-20\bin\Debug\DBprojectF19-20.exe.config
+C:\Users\mhmd\source\repos\DBprojectF19-20\DBprojectF19-20\bin\Debug\DBprojectF19-20.exe
+C:\Users\mhmd\source\repos\DBprojectF19-20\DBprojectF19-20\bin\Debug\DBprojectF19-20.pdb
+C:\Users\mhmd\source\repos\DBprojectF19-20\DBprojectF19-20\obj\Debug\DBprojectF19-20.csprojAssemblyReference.cache
+C:\Users\mhmd\source\repos\DBprojectF19-20\DBprojectF19-20\obj\Debug\DBprojectF19_20.Form1.resources
+C:\Users\mhmd\source\repos\DBprojectF19-20\DBprojectF19-20\obj\Debug\DBprojectF19_20.LogIn.resources
+C:\Users\mhmd\source\repos\DBprojectF19-20\DBprojectF19-20\obj\Debug\DBprojectF19_20.NewUser.resources
+C:\Users\mhmd\source\repos\DBprojectF19-20\DBprojectF19-20\obj\Debug\DBprojectF19_20.Properties.Resources.resources
+C:\Users\mhmd\source\repos\DBprojectF19-20\DBprojectF19-20\obj\Debug\DBprojectF19-20.csproj.GenerateResource.cache
+C:\Users\mhmd\source\repos\DBprojectF19-20\DBprojectF19-20\obj\Debug\DBprojectF19-20.csproj.CoreCompileInputs.cache
+C:\Users\mhmd\source\repos\DBprojectF19-20\DBprojectF19-20\obj\Debug\DBprojectF19-20.exe
+C:\Users\mhmd\source\repos\DBprojectF19-20\DBprojectF19-20\obj\Debug\DBprojectF19-20.pdb

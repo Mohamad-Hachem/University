@@ -1,0 +1,15 @@
+C:\Users\mhmd\source\repos\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\mhmd\source\repos\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\mhmd\source\repos\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\mhmd\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.csprojAssemblyReference.cache
+C:\Users\mhmd\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.addCourse.resources
+C:\Users\mhmd\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.Form1.resources
+C:\Users\mhmd\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\mhmd\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\mhmd\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\mhmd\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\mhmd\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\mhmd\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.StudentRegister.resources
+C:\Users\mhmd\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.registerCourse.resources
+C:\Users\mhmd\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.ShowCourseInfo.resources
+C:\Users\mhmd\source\repos\FinalProject\FinalProject\obj\Debug\FinalProject.studentShowInfo.resources
